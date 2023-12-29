@@ -1,0 +1,23 @@
+Unnamed: 0,Original_Dataset,RandomDeletion_Dataset,SynonymReplacement_Dataset,CharacterSwapping_Dataset,GPT3.5_Dataset
+Training Accuracy,0.885877907,0.929400921,0.94337821,0.975991249,0.982027471
+Testing Accuracy,0.59794873,0.448028028,0.448790252,0.43353337,0.274131984
+Micro F1 Score,0.597948718,0.448028013,0.448790249,0.43353337,0.274131976
+Macro F1 Score,0.432036237,0.448250989,0.449158275,0.432276281,0.262639272
+Precision for Negative sentiment,0.668444444,0.465545307,0.436004162,0.433595558,0.631232361
+Precision for Positive sentiment,0.332524272,0.410493827,0.425839793,0.399888765,0.223498888
+Precision for Neutral sentiment,0.410646388,0.472849298,0.490853659,0.472727273,0.134482759
+Recall for Negative sentiment,0.819618529,0.467574932,0.456675749,0.510626703,0.194662025
+Recall for Positive sentiment,0.222042139,0.443087174,0.451012589,0.393326039,0.522530329
+Recall for Neutral sentiment,0.22832981,0.432960894,0.438692098,0.396514161,0.26
+,,,,,
+Column1,Original_Dataset,RandomDeletion_Dataset,SynonymReplacement_Dataset,CharacterSwapping_Dataset,GPT3.5_Dataset
+Training Accuracy,0.885877907,4%,6%,9%,10%
+Testing Accuracy,0.59794873,-15%,-15%,-16%,-32%
+Micro F1 Score,0.597948718,-15%,-15%,-16%,-32%
+Macro F1 Score,0.432036237,2%,2%,0%,-17%
+Precision for Negative sentiment,0.668444444,-20%,-23%,-23%,-4%
+Precision for Positive sentiment,0.332524272,8%,9%,7%,-11%
+Precision for Neutral sentiment,0.410646388,6%,8%,6%,-28%
+Recall for Negative sentiment,0.819618529,-35%,-36%,-31%,-62%
+Recall for Positive sentiment,0.222042139,22%,23%,17%,30%
+Recall for Neutral sentiment,0.22832981,20%,21%,17%,3%
